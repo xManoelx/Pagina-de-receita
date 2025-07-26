@@ -5,6 +5,7 @@ A responsive recipe page showcasing a delicious coffee cupcake with chantilly cr
 ## 📸 Preview
 
 <img width="862" height="673" alt="image" src="https://github.com/user-attachments/assets/073242ba-97f1-4776-a5e4-d191b5398a9a" />
+
 *Beautiful coffee cupcakes with chantilly cream and coffee beans decoration*
 
 ## 🚀 Demo
