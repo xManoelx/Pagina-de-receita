@@ -8,10 +8,6 @@ A responsive recipe page showcasing a delicious coffee cupcake with chantilly cr
 
 *Beautiful coffee cupcakes with chantilly cream and coffee beans decoration*
 
-## 🚀 Demo
-
-[Live Demo](https://xmanoelx.github.io/projeto-final-cupcake) <!-- Replace with your actual GitHub Pages URL -->
-
 ## 📚 About This Project
 
 This was developed as my **final project** for the web development course, demonstrating the skills I acquired in HTML and CSS fundamentals. The project showcases a complete recipe page with proper structure, styling, and attention to visual design.
